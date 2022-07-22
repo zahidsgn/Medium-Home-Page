@@ -1,0 +1,15 @@
+.yellow{
+    background-color: #feb715; 
+}
+.border-bottom-dark{
+    border-bottom: 1px solid rgba(41,41,41,1);
+}
+.serif{
+    font-family: 'Libre Baskerville', serif;
+}
+.aside-buttons>li{
+    margin-bottom: 10px;
+}
+.border-top-dark{
+    border-top: 1px solid rgba(230,230,230,1);
+}
