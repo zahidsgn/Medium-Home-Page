@@ -1,3 +1,3 @@
 # Medium Home Page
- Medium Page with Bootstrap
+ Medium Page with Bootstrap | 
 www.patika.dev
